@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.card1 {
+  background-color: #ecfccb;
+  border: 0.5px solid #84cc16;
+  border-radius: 9px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.card2 {
+  background-color: #cffafe;
+  border: 0.5px solid #06b6d4;
+  border-radius: 9px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.card3 {
+  background-color: #ede9fe;
+  border: 0.5px solid #7c3aed;
+  border-radius: 9px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.logo {
+  height: 80px;
+  padding: 10px;
+}

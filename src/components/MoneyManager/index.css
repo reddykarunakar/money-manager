@@ -1,0 +1,71 @@
+/* Write your CSS here */
+.headings {
+  display: flex;
+  border: 0.5px solid #475569;
+  border-radius: 5px;
+  justify-content: space-around;
+  align-items: center;
+  width: 250px;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  padding: 10px;
+  height: 160px;
+  border-radius: 10px;
+  margin-bottom: 17px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+
+  height: 100vh;
+  padding: 25px;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #334155;
+  padding: 20px;
+  width: 300px;
+  margin-right: 20px;
+  border-radius: 13px;
+}
+.container2 {
+  display: flex;
+
+  margin-top: 20px;
+}
+input {
+  height: 35px;
+  width: 200px;
+  margin: 10px;
+}
+select {
+  width: 200px;
+  height: 35px;
+}
+.addbtn {
+  background-color: #0b69ff;
+  border: 0px;
+  border-radius: 7px;
+  width: 110px;
+  height: 30px;
+  margin-top: 10px;
+}
+.history {
+  border: 1px solid #334155;
+  padding: 20px;
+  width: 300px;
+  border-radius: 13px;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}

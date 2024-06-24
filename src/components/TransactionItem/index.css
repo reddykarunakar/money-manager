@@ -1,0 +1,18 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.Transactionlist {
+  display: flex;
+  border: 0.5px solid #475569;
+  border-radius: 5px;
+  justify-content: space-around;
+  align-items: center;
+  width: 250px;
+  margin-left: 0px;
+}
+.delete {
+  height: 30px;
+}
+.button {
+  background-color: transparent;
+  border: 0px;
+}
